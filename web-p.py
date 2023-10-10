@@ -6,7 +6,7 @@ print("""
 
     WEB PARSER'E HOŞGELDİNİZ
 
-            coderby: @mevlanaechooff ' @sehogrkan
+            coderby: @mevlanaechooff 
     
 """)
 
